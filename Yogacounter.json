@@ -1,13 +1,13 @@
 {
-  "latestVersion": "0.0.5",
-  "latestVersionCode": 5,
-  "minimumAllowedVersionCode": 5,
+  "latestVersion": "0.0.6",
+  "latestVersionCode": 6,
+  "minimumAllowedVersionCode": 6,
   "disableRequest": {
-    "below": 5,
-    "on": "4, 3"
+    "below": 6,
+    "on": "5, 4"
   },
   "url": "https://play.google.com/store/apps/details?id=com.padmanabhan.yogaexercisesecondscounter",
   "releaseNotes": [
-    "Added new icons"
+    "Minor changes and improvements"
   ]
 }
